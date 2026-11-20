@@ -1,0 +1,6 @@
+{
+  "name": "CueStage",
+  "description": "Precision teleprompter studio with adjustable scroll pacing, customizable speaker typography, and native audio/video presentation recording and review.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
